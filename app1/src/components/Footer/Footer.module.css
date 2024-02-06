@@ -1,0 +1,20 @@
+.hh {
+    background-color: #263e57;
+}
+
+
+.border {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.color1 {
+    background-color: #080f16; 
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,19 @@
+.hh {
+    background-color: #263e57;
+    
+}
+
+.color {
+    font-weight: 500;
+    color: white;
+}
+
+.color:active {
+    background-color:#1ABC9C;
+    border-radius: 80vh 100vh ;
+}
+.color:focus {
+    background-color:#1ABC9C;
+    border-radius: 80vh 100vh ;
+}
+

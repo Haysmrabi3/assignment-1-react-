@@ -1,0 +1,43 @@
+.height {
+    height: 100vh;
+    background-color: #1ABC9C;
+    width: 100%;
+    margin: 80px  0px  0px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    position: relative;
+    width: 100%;
+    font-size: 20px;
+    color: white;
+}
+
+
+ .line::after {
+content: '';
+position: absolute;
+bottom: 0; 
+right: 26%;
+width: 20%;
+height: 3px;
+background-color: white;
+}
+
+
+.line::before {
+    content: '';
+    position: absolute;
+    bottom: 0; 
+    left: 26%;
+    width: 20%;
+    height: 3px;
+    background-color: white;
+    } 
+
+
+    .width {
+        width: 60%;
+    }
